@@ -1,9 +1,11 @@
-<h1 align="center" style="color:#007BFF">Hey There👋 , I'm Jewel Saji</h1>
-<h3 align="center">🚀 Aspiring Product Manager | 🤖 AI-Driven Thinker | 🎯 Purpose-Led Builder</h3>
+<h1 align="center" style="color:#007BFF">Hey there 👋, I'm Jewel Saji</h1>
+<h3 align="center">🚀 Future-Focused PM | 🤖 AI x Product Strategist | 🧭 Builder of What’s Next</h3>
 
 <p align="center">
   <a href="https://github.com/JewelSaji" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B2FF&center=true&vCenter=true&width=700&lines=Bridging+Tech+%26+Business+with+Purpose;PM+%7C+Python+%7C+AI+%7C+Frontend+%7C+UX+Thinker;Always+Curious+%7C+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B2FF&center=true&vCenter=true&width=800&lines=Designing+products+that+learn+%26+adapt.;AI-native+thinker+with+PM+instincts.;Building+for+real+users%2C+not+just+metrics.;Frontend+UX.+Backend+Logic.+Product+Vision.;Evolving+at+the+intersection+of+Tech+%26+Business." alt="Typing SVG" />
+  </a>
+</p>
 
 
 </p>
