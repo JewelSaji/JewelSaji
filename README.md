@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#007BFF">Hey there 👋, I'm Jewel Saji</h1>
-<h3 align="center">🚀 Future-Focused PM | 🤖 AI x Product Strategist | 🧭 Builder of What’s Next</h3>
+<h3 align="center">🚀 Future-Focused Product Thinker | 🤖 AI x Product Strategist | 🧭 Builder of What’s Next</h3>
 
 <p align="center">
   <a href="https://github.com/JewelSaji" target="_blank">
