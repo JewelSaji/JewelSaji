@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#007BFF">Hey there 👋, I'm Jewel Saji</h1>
-<h3 align="center">🚀 Future-Focused Product Thinker | 🤖 AI x Product Strategist | 🧭 Builder of What’s Next</h3>
+<h3 align="center">AI x Product Strategist </h3>
 
 <p align="center">
   <a href="https://github.com/JewelSaji" target="_blank">
@@ -20,7 +20,6 @@
 
 - Final Year Student B.Tech in CS(AI&ML) at **Mar Athanasius College of Engineering, Kothamangalam**
 - Technical core in **Python, AI/ML**, and building real-world products
-- Currently learning **HTML, CSS, JavaScript & UI/UX**
 - Transitioning into **Product Management & Project Leadership**
 - Reach me: [jewelsaji026@gmail.com](mailto:jewelsaji026@gmail.com)
 
@@ -40,8 +39,6 @@
 ---
 
 ### 🧭 Building Expertise In
-
-- 📌 Front-End + UI/UX → *HTML, CSS, JS, Figma*
 - 📌 Product Thinking → *Product Management, Product Sense, Strategy*
 - 📌 Communication & Team Skills → *Agile, Leadership, Ownership*
 
