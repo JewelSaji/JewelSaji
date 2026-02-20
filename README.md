@@ -1,5 +1,4 @@
 <h1 align="center" style="color:#007BFF">Hey there 👋, I'm Jewel Saji</h1>
-<h3 align="center">AI x Product Strategist </h3>
 
 <p align="center">
   <a href="https://github.com/JewelSaji" target="_blank">
@@ -20,7 +19,6 @@
 
 - Final Year Student B.Tech in CS(AI&ML) at **Mar Athanasius College of Engineering, Kothamangalam**
 - Technical core in **Python, AI/ML**, and building real-world products
-- Transitioning into **Product Management & Project Leadership**
 - Reach me: [jewelsaji026@gmail.com](mailto:jewelsaji026@gmail.com)
 
 ---
@@ -38,24 +36,8 @@
 
 ---
 
-### 🧭 Building Expertise In
-- 📌 Product Thinking → *Product Management, Product Sense, Strategy*
-- 📌 Communication & Team Skills → *Agile, Leadership, Ownership*
-
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JewelSaji&show_icons=true&theme=blue-green" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JewelSaji&theme=blue-green" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JewelSaji&layout=compact&theme=blue-green" width="50%" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
