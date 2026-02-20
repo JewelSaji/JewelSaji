@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/JewelSaji" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B2FF&center=true&vCenter=true&width=800&lines=Designing+products+that+learn+%26+adapt.;AI-native+thinker+with+PM+instincts.;Building+for+real+users%2C+not+just+metrics.;Frontend+UX.+Backend+Logic.+Product+Vision.;Evolving+at+the+intersection+of+Tech+%26+Business." alt="Typing SVG" />
-  </a>
+
 </p>
 
 
